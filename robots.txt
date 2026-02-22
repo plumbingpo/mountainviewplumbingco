@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mountainviewplumbingco.com/sitemap.xml
